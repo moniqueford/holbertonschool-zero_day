@@ -1,1 +1,1 @@
-0x02. Vi command  
+using vm to display command uname 
